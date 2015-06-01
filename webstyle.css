@@ -1,0 +1,80 @@
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+/* <h1> gets a text color teal and center aligns it */
+h1 {
+    color: #22D2F2;
+      text-align: center;
+ }
+
+h2 {
+    color: white;
+      text-align: center;
+ }
+
+ p{
+ 	margin: 10px 0;
+ }
+
+
+body {
+    background-color: black;
+    font-family: Helvetica;
+    font-size:1.4em;
+    color: white;
+    padding: 20px 10px;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+.TOC{
+    background-color: white;
+    border-radius: 20px;
+    color: blue;
+    padding: 10px;
+    margin: 10px;
+}
+.lesson_title {
+    background-color: #294860;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.concept {
+    background-color: #DFEAF1;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+}
+
+.definition {
+	font-size: 15px;
+    font-weight: lighter;
+    margin: 6px;
+}
+
+.bold {
+    font-weight: bold;
+}
+li {
+	font-size: 20px;
+	line-height: 44px;
+
+}
+
+ul {
+	list-style-type: none; 
+}
